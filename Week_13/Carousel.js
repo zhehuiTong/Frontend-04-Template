@@ -1,6 +1,6 @@
-import { Component, createElement } from './framework'
+import { Component } from './framework'
 
-class Carousel extends Component {
+export class Carousel extends Component {
     constructor() {
         super();
         this.attributes = Object.create(null);
