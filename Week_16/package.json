@@ -1,0 +1,20 @@
+{
+  "name": "generator-vue",
+  "version": "1.0.0",
+  "description": "学习笔记",
+  "main": "generators/app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.12",
+    "yeoman-generator": "^4.12.0"
+  },
+  "devDependencies": {
+    "vue-loader": "^15.9.5",
+    "webpack": "^5.10.0"
+  }
+}
